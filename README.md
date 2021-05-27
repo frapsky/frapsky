@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me: <br><br>
+[![LinkedIn][linkedin-shield]][linkedin-url] <-- (just hit it)
+<br>
+![GMail][gmail-shield] &nbsp; --> jakubszostk@gmail.com
+
+
+ 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/jakub-szostak99
+
+[gmail-shield]: https://img.shields.io/badge/-gmail-white.svg?style=for-the-badge&logo=gmail&colorB=555
+
+
