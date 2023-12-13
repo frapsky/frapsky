@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: <br><br>
 [![My personal site][frapsky-shield]][frapsky-url] 
+<br>
 [![LinkedIn][linkedin-shield]][linkedin-url] <-- (just hit it)
 <br>
 ![GMail][gmail-shield] &nbsp; --> jakubszostk@gmail.com
