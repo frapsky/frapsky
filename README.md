@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jakszo/
 [frapsky-url]: https://frapsky.pl/
-[frapsky-shield]: https://img.shields.io/badge/frapsky-blue
+[frapsky-shield]: https://img.shields.io/badge/My_personal_site-blue
 
 [gmail-shield]: https://img.shields.io/badge/-gmail-white.svg?style=for-the-badge&logo=gmail&colorB=555
 
