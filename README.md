@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**frapsky/frapsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jakubszostak/jakubszostak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me: <br><br>
-[![My personal site][frapsky-shield]][frapsky-url] 
+[![My personal site][jakubszostak-shield]][jakubszostak-url] 
 <br>
 [![LinkedIn][linkedin-shield]][linkedin-url] <-- (just hit it)
 <br>
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jakszo/
-[frapsky-url]: https://frapsky.pl/
-[frapsky-shield]: https://img.shields.io/badge/My_personal_site-blue
+[jakubszostak-url]: https://jakubszostak.pl/
+[jakubszostak-shield]: https://img.shields.io/badge/My_personal_site-blue
 
 [gmail-shield]: https://img.shields.io/badge/-gmail-white.svg?style=for-the-badge&logo=gmail&colorB=555
 
